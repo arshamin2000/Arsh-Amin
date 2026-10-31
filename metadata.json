@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "An intelligent, conversational AI assistant with streaming responses, code execution formatting, multimodal analysis, and chat history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
